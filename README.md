@@ -20,7 +20,7 @@
   ## Technologies
   JavaScript, Node.js, Inquirer.js
   ## Preview
-  ![Img](./images/preview.png)
+  ![Img](https://github.com/negronmarc/README-Generator/blob/main/images/preview.PNG?raw=true)
   ## Contributors
   Marc Negron
   ## Launch
