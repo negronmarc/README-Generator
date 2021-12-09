@@ -24,7 +24,7 @@ const questions = [
   {
     type: "input",
     name: "usage",
-    message: "Provide instructions and examples for use.",
+    message: "Provide examples of how this application can be used?",
   },
   {
     type: "input",

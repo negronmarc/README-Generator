@@ -822,7 +822,7 @@ function renderLicenseSection(license) {
     apply, that proxy's public statement of acceptance of any version is
     permanent authorization for you to choose that version for the
     Library.`;
-  } else {
+  } else  {
     return ``;
   }
 }
@@ -864,7 +864,7 @@ function generateMarkdown(data) {
   ## Badges
   ${licenseBadge}
   ## License Link
-  [Click Me] (${licenseLink}) 
+  [Click Me](${licenseLink}) 
 `;
 }
 
