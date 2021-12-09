@@ -25,6 +25,7 @@
   Marc Negron
   ## Launch
   https://github.com/negronmarc/README-Generator
+  Click [Screencastify](https://watch.screencastify.com/v/9PlfewwQKnkZYXRE5fiC) and it will take you to a tutorial video of this application. 
   ## License
   MIT License
 
