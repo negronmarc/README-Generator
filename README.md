@@ -23,8 +23,7 @@
   ![Img](https://github.com/negronmarc/README-Generator/blob/main/images/preview.PNG?raw=true)
   ## Contributors
   Marc Negron
-  ## Launch
-  https://github.com/negronmarc/README-Generator
+  ## Tutorial
   Click [Screencastify](https://watch.screencastify.com/v/9PlfewwQKnkZYXRE5fiC) and it will take you to a tutorial video of this application. 
   ## License
   MIT License
