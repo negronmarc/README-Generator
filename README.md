@@ -1,7 +1,7 @@
 # README Generator
 
   ## Description
-  Users can quickly and easily create a README file by using this command-line application to generate one so creators can devote more time to working on the project. The README is dynamically generated from the user’s input using the inquirer package. 
+  Users can quickly and easily create a README file by using this command-line application to generate one so developers can devote more time to working on the project. The README is dynamically generated from the user’s input using the inquirer package. 
   
   ## Table of Contents
   - [Installation](#installation)
